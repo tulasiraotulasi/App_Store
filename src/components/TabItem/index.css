@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.btn {
+  border: none;
+  background-color: transparent;
+}
+
+.color-border {
+  color: #2563eb;
+  border-bottom: #2563eb solid 2px;
+}
